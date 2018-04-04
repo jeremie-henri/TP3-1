@@ -35,12 +35,12 @@ namespace
         String s4 (10, '#');
         cout << s4 << '\n';
 
-        String str ("AbCdEf1234");
-        cout << str << '\n';
-        cout << str.toupper() << '\n';
-        cout << str << '\n';
-        cout << str.tolower() << '\n';
-        cout << str << '\n';
+        String s5 ("AbCdEf1234");
+        cout << s5 << '\n';
+        cout << s5.toupper() << '\n';
+        cout << s5 << '\n';
+        cout << s5.tolower() << '\n';
+        cout << s5 << '\n';
 
         cout << "\nTest des fonctions\n\n";
         String STR ("MAJUSCULE");
